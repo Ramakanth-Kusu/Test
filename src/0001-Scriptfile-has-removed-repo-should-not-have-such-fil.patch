@@ -1,0 +1,20 @@
+From 96c4f1c3feb9ca0ab8fd7078f7d11a0843becb85 Mon Sep 17 00:00:00 2001
+From: Ramakanth-Kusu <Ramakanth.kusu@gmail.com>
+Date: Wed, 28 Apr 2021 16:35:34 +0400
+Subject: [PATCH] Scriptfile has removed, repo should not have such files
+
+---
+ src/F.sh | 1 -
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 src/F.sh
+
+diff --git a/src/F.sh b/src/F.sh
+deleted file mode 100644
+index 3257fc6..0000000
+--- a/src/F.sh
++++ /dev/null
+@@ -1 +0,0 @@
+-this is s sample script file
+-- 
+2.15.1.windows.2
+
