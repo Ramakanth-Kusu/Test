@@ -3,4 +3,5 @@ public class B
 { 
   // here we can main method
   // CHANGED
+// for git diff
 }
