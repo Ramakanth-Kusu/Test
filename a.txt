@@ -1,0 +1,23 @@
+commit d59d3f7cdd1b0ee43bdd1a48dde337fdc2fd446c
+Author: Ramakanth-Kusu <Ramakanth.kusu@gmail.com>
+Date:   Wed Apr 28 19:33:12 2021 +0400
+
+    newbracnh and new patch file
+
+commit 96c4f1c3feb9ca0ab8fd7078f7d11a0843becb85
+Author: Ramakanth-Kusu <Ramakanth.kusu@gmail.com>
+Date:   Wed Apr 28 16:35:34 2021 +0400
+
+    Scriptfile has removed, repo should not have such files
+
+commit 65e09b123864235f27c1a24a3658e9b232e7c4fc
+Author: Ramakanth-Kusu <Ramakanth.kusu@gmail.com>
+Date:   Wed Apr 28 16:34:27 2021 +0400
+
+    NewShFileAdded
+
+commit b12811aa961300305c9e9b81ebf63e3ff5c047ed
+Author: Ramakanth-Kusu <Ramakanth.kusu@gmail.com>
+Date:   Wed Apr 28 16:30:19 2021 +0400
+
+    DrenamedasE
